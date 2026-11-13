@@ -1,0 +1,6 @@
+{
+  "name": "CyberWarp 3D: Space Runner",
+  "description": "外太空科技風 3D 跑酷遊戲，支援 MediaPipe 臉部與鼻子姿態偵測控制角色移動與跳躍",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
